@@ -1,5 +1,8 @@
 {
   "private": true,
   "sideEffects": false,
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
 }
